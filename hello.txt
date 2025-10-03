@@ -1,0 +1,2 @@
+Hello, World!
+This is a simple text file created to demonstrate GitHub's file creation workflow.
